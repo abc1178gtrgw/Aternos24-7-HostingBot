@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "StrengthsmpISRAEL.aternos.me",
+    "port":35376 ,
     "version": "",
     "try-creative": false
   },
